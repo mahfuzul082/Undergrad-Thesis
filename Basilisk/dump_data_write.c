@@ -1,4 +1,7 @@
 #include "navier-stokes/centered.h" //library to be used from http://basilisk.fr/src/navier-stokes/centered.h.
+#include "two-phase.h" //library to be used from http://basilisk.fr/src/two-phase.h
+#include "tension.h" //library to be used from http://basilisk.fr/src/tension.h
+#include "lambda2.h" //library to be used from http://basilisk.fr/src/lambda2.h
 
 //for unit decimal time interval, we write pressure field, velocity field, vorticity field and curvature in basilisk-specific dump state files.
 
